@@ -1,8 +1,7 @@
 # React Tailwind Admin Dashboard & Landing Template
 
 
-## Web Demo
-  API Url : https://react-tailwind-admin-template.onrender.com/
+ Web Demo : https://react-tailwind-admin-template.onrender.com/
 
 
 ## Tech Stack
